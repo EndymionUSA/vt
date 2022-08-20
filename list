@@ -17,16 +17,12 @@ http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15921?checkedby:iptvcat.com
 http://mains.services:2086/A.Jones01/1904550/1702?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="ESPN",ESPN U
 http://mains.services:2086/A.Jones01/1904550/475?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NFL",NFL NETWORK
-http://mains.services:2086/A.Jones01/1904550/308?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NFL",NFL NEW ENGLAND PATRIOTS
-http://mains.services:2086/A.Jones01/1904550/55080?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NFL",NFL NETWORK CA
+https://list.iptvcat.com/my_list/s/085d5f85af523a5ab059ec21a112d743.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NFL",NFL NETWORK US
+https://list.iptvcat.com/my_list/s/6c1de46d3be268593ff4cc8e208820c2.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="NFL",NFL REDZONE
-http://mains.services:2086/A.Jones01/1904550/2913?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NFL",NFL TAMPA BAY BUCCANEERS
-http://mains.services:2086/A.Jones01/1904550/356?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NFL",NFL Network
-http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/22430?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/197c5896f771d6361cbf5c976cb747cf.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Finance",CNBC
 http://mains.services:2086/A.Jones01/1904550/349?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Finance",FOX BUSINESS
