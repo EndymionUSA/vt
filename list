@@ -17,12 +17,12 @@ http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15921?checkedby:iptvcat.com
 http://mains.services:2086/A.Jones01/1904550/1702?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="ESPN",ESPN U
 http://mains.services:2086/A.Jones01/1904550/475?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",NFL Network CA
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nfl.network.alt.canadian.ca.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",NFL Network US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nfl.network.us.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",NFL RedZone US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nfl.red.zone.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="NFL",NFL NETWORK
+http://mains.services:2086/A.Jones01/1904550/3402?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="NFL",NFL Network HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJAk1DARxgFCRZ8pu6aVoeI/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NFL",NFL NETWORK FHD 1080
+http://mains.services:2086/A.Jones01/1904550/64168?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Finance",CNBC
 http://mains.services:2086/A.Jones01/1904550/349?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Finance",FOX BUSINESS
